@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Byblos</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="majors">
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Computer Science</item>
+    </string-array>
+
+    <string-array name="minors">
+        <item>Mathematics</item>
+        <item>Physics</item>
+    </string-array>
+
+</resources>
